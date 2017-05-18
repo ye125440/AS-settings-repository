@@ -1,0 +1,9 @@
+<templateSet group="SF">
+  <template name="ccc" value="/**&#10; * $desc$&#10; * @author Ye Jiaxu&#10; * @date $date$&#10; */" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

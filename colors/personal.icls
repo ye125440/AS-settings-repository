@@ -1,0 +1,14 @@
+<scheme name="personal" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-05-19T10:41:54</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2.3.2.0</property>
+    <property name="modified">2017-05-19T10:45:33</property>
+    <property name="originalScheme">SF</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+</scheme>

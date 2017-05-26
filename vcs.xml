@@ -6,6 +6,10 @@
           <option name="url" value="git@github.com:drakeet/Meizhi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ye125440/volley.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\github" />

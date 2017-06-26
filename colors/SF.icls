@@ -30,7 +30,6 @@
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="bbb537" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>

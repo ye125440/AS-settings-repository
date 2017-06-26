@@ -7,7 +7,7 @@
   <attributes>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff4baa" />
+        <option name="FOREGROUND" value="ff40c5" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
@@ -29,7 +29,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbb96e" />
+        <option name="FOREGROUND" value="bbb537" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
